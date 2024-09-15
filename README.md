@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jr012do
+- 👋 Hi, I’m jakub Raškovský
 - 👀 I’m interested in Web Development
 
 <!---
